@@ -5,10 +5,11 @@ This is a Discord bot that allows you to split files into 10MB segments, send th
 # Disclaimer
 
 - Don't use this project in a public server, and don't use this storage to upload sensitive data, remember whatever you upload is now at the hands of discord, granted they may have a little but of trouble rebuilding it without the same algorithm, but still.. don't do that.
+- **ANYONE CAN USE THIS BOT TO QUERY/UPLOAD FILES ON THE SYSTEM IT'S BEING RAN ON, DON'T PUT YOUR SYSTEM AT RISK.**
 
 ### Todo:
 
-- Add Access Controls (Checks Usage is from bot owner)
+- ✅ Add Access Controls (Checks Usage is from bot owner)
 - Add an option to encrypt files
 
 ## Installation
